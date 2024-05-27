@@ -1,0 +1,58 @@
+[
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/ru.png",
+      "svg": "https://flagcdn.com/ru.svg",
+      "alt": "Flag of Russia"
+    },
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation"
+    },
+    "population": 146934000,
+    "nativeName": "Россия",
+    "capital": "Moscow",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "RUB",
+    "languages": ["ru"],
+    "tld": ".ru",
+    "code": "RUS",
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/ua.png",
+      "svg": "https://flagcdn.com/ua.svg",
+      "alt": "Flag of Ukraine"
+    },
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukrainian"
+    },
+    "population": 41610000,
+    "nativeName": "Україна",
+    "capital": "Kyiv",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "UAH",
+    "languages": ["uk"],
+    "tld": ".ua",
+    "code": "UKR",
+    "borders": ["BLR", "HUN", "MOL", "POL", "ROU", "RUS"]
+  }
+]

@@ -1,8 +1,16 @@
 import { Router } from 'express'
-import getCountries from '../controllers/countries.js'
+import {
+  getCountries,
+  getCountriesByCodes,
+  getCountryByName,
+} from '../controllers/countries.js'
 
 const router = Router()
 
-router.get('/', getCountries)
+router.get('/countries', getCountries)
+
+router.get('/country/:name', getCountryByName)
+
+router.get('/borders', getCountriesByCodes)
 
 export default router

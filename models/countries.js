@@ -30,19 +30,41 @@ const countriesShema = new mongoose.Schema({
 
   region: {
     type: String,
-    enum: [
-      'Africa' |
-        'Asia' |
-        'Antarctic' |
-        'Europe' |
-        'Oceania' |
-        'Americas' |
-        'All',
-    ],
+    enum: ['Africa' | 'Asia' | 'Antarctic' | 'Europe' | 'Oceania' | 'Americas'],
   },
 
   population: {
     type: Number,
+    required: true,
+  },
+
+  subregion: {
+    type: String,
+    required: true,
+  },
+
+  languages: {
+    type: Array,
+    required: true,
+  },
+
+  currency: {
+    type: String,
+    required: true,
+  },
+
+  tld: {
+    type: String,
+    required: true,
+  },
+
+  code: {
+    type: String,
+    required: true,
+  },
+
+  borders: {
+    type: Array,
     required: true,
   },
 })

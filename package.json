@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "lint": "npx eslint .",
-    "start": "node index.js",
+    "start": "node app.js",
     "build": "node build.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
