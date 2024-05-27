@@ -1,6 +1,8 @@
-import express from 'express';
-const router = express.Router();
+import { Router } from 'express'
+import getCountries from '../controllers/countries.js'
 
-// router.get('/countries', getCountries);
+const router = Router()
 
-module.exports = router;
+router.get('/', getCountries)
+
+export default router
