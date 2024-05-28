@@ -54,5 +54,600 @@
     "tld": ".ua",
     "code": "UKR",
     "borders": ["BLR", "HUN", "MOL", "POL", "ROU", "RUS"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/us.png",
+      "svg": "https://flagcdn.com/us.svg",
+      "alt": "Flag of the United States"
+    },
+    "name": {
+      "common": "United States",
+      "official": "United States of America"
+    },
+    "population": 329484123,
+    "nativeName": "United States",
+    "capital": "Washington D.C.",
+    "region": "Americas",
+    "subregion": "North America",
+    "currency": "USD",
+    "languages": ["en"],
+    "tld": ".us",
+    "code": "USA",
+    "borders": ["CAN", "MEX"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/cn.png",
+      "svg": "https://flagcdn.com/cn.svg",
+      "alt": "Flag of China"
+    },
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China"
+    },
+    "population": 1402112000,
+    "nativeName": "中国",
+    "capital": "Beijing",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": "CNY",
+    "languages": ["zh"],
+    "tld": ".cn",
+    "code": "CHN",
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/de.png",
+      "svg": "https://flagcdn.com/de.svg",
+      "alt": "Flag of Germany"
+    },
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany"
+    },
+    "population": 83166711,
+    "nativeName": "Deutschland",
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": "EUR",
+    "languages": ["de"],
+    "tld": ".de",
+    "code": "DEU",
+    "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/fr.png",
+      "svg": "https://flagcdn.com/fr.svg",
+      "alt": "Flag of France"
+    },
+    "name": {
+      "common": "France",
+      "official": "French Republic"
+    },
+    "population": 67391582,
+    "nativeName": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": "EUR",
+    "languages": ["fr"],
+    "tld": ".fr",
+    "code": "FRA",
+    "borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/gb.png",
+      "svg": "https://flagcdn.com/gb.svg",
+      "alt": "Flag of the United Kingdom"
+    },
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    "population": 67081234,
+    "nativeName": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "GBP",
+    "languages": ["en"],
+    "tld": ".uk",
+    "code": "GBR",
+    "borders": ["IRL"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/it.png",
+      "svg": "https://flagcdn.com/it.svg",
+      "alt": "Flag of Italy"
+    },
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic"
+    },
+    "population": 59257566,
+    "nativeName": "Italia",
+    "capital": "Rome",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "EUR",
+    "languages": ["it"],
+    "tld": ".it",
+    "code": "ITA",
+    "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/tr.png",
+      "svg": "https://flagcdn.com/tr.svg",
+      "alt": "Flag of Turkey"
+    },
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey"
+    },
+    "population": 84339067,
+    "nativeName": "Türkiye",
+    "capital": "Ankara",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": "TRY",
+    "languages": ["tr"],
+    "tld": ".tr",
+    "code": "TUR",
+    "borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/sa.png",
+      "svg": "https://flagcdn.com/sa.svg",
+      "alt": "Flag of Saudi Arabia"
+    },
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia"
+    },
+    "population": 34813867,
+    "nativeName": "العربية السعودية",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": "SAR",
+    "languages": ["ar"],
+    "tld": ".sa",
+    "code": "SAU",
+    "borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/au.png",
+      "svg": "https://flagcdn.com/au.svg",
+      "alt": "Flag of Australia"
+    },
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia"
+    },
+    "population": 25687041,
+    "nativeName": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": "AUD",
+    "languages": ["en"],
+    "tld": ".au",
+    "code": "AUS",
+    "borders": []
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/br.png",
+      "svg": "https://flagcdn.com/br.svg",
+      "alt": "Flag of Brazil"
+    },
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil"
+    },
+    "population": 212559409,
+    "nativeName": "Brasil",
+    "capital": "Brasília",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "BRL",
+    "languages": ["pt"],
+    "tld": ".br",
+    "code": "BRA",
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/ca.png",
+      "svg": "https://flagcdn.com/ca.svg",
+      "alt": "Flag of Canada"
+    },
+    "name": {
+      "common": "Canada",
+      "official": "Canada"
+    },
+    "population": 37742157,
+    "nativeName": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "North America",
+    "currency": "CAD",
+    "languages": ["en", "fr"],
+    "tld": ".ca",
+    "code": "CAN",
+    "borders": ["USA"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/jp.png",
+      "svg": "https://flagcdn.com/jp.svg",
+      "alt": "Flag of Japan"
+    },
+    "name": {
+      "common": "Japan",
+      "official": "Japan"
+    },
+    "population": 126476458,
+    "nativeName": "日本",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": "JPY",
+    "languages": ["ja"],
+    "tld": ".jp",
+    "code": "JPN",
+    "borders": []
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/mx.png",
+      "svg": "https://flagcdn.com/mx.svg",
+      "alt": "Flag of Mexico"
+    },
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States"
+    },
+    "population": 128932753,
+    "nativeName": "México",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "subregion": "North America",
+    "currency": "MXN",
+    "languages": ["es"],
+    "tld": ".mx",
+    "code": "MEX",
+    "borders": ["BLZ", "GTM", "USA"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/id.png",
+      "svg": "https://flagcdn.com/id.svg",
+      "alt": "Flag of Indonesia"
+    },
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia"
+    },
+    "population": 273523621,
+    "nativeName": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "IDR",
+    "languages": ["id"],
+    "tld": ".id",
+    "code": "IDN",
+    "borders": ["TLS", "MYS", "PNG"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/ng.png",
+      "svg": "https://flagcdn.com/ng.svg",
+      "alt": "Flag of Nigeria"
+    },
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria"
+    },
+    "population": 206139587,
+    "nativeName": "Nigeria",
+    "capital": "Abuja",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": "NGN",
+    "languages": ["en"],
+    "tld": ".ng",
+    "code": "NGA",
+    "borders": ["BEN", "CMR", "TCD", "NER"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/za.png",
+      "svg": "https://flagcdn.com/za.svg",
+      "alt": "Flag of South Africa"
+    },
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa"
+    },
+    "population": 59308690,
+    "nativeName": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "currency": "ZAR",
+    "languages": ["af", "en", "nr", "st", "ss", "tn", "ts", "ve", "xh", "zu"],
+    "tld": ".za",
+    "code": "ZAF",
+    "borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZMB", "ZWE"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/eg.png",
+      "svg": "https://flagcdn.com/eg.svg",
+      "alt": "Flag of Egypt"
+    },
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt"
+    },
+    "population": 102334403,
+    "nativeName": "مصر",
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": "EGP",
+    "languages": ["ar"],
+    "tld": ".eg",
+    "code": "EGY",
+    "borders": ["ISR", "LBY", "PSE", "SDN"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/ir.png",
+      "svg": "https://flagcdn.com/ir.svg",
+      "alt": "Flag of Iran"
+    },
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran"
+    },
+    "population": 83992953,
+    "nativeName": "ایران",
+    "capital": "Tehran",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": "IRR",
+    "languages": ["fa"],
+    "tld": ".ir",
+    "code": "IRN",
+    "borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/ar.png",
+      "svg": "https://flagcdn.com/ar.svg",
+      "alt": "Flag of Argentina"
+    },
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic"
+    },
+    "population": 45195777,
+    "nativeName": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "ARS",
+    "languages": ["es", "gn"],
+    "tld": ".ar",
+    "code": "ARG",
+    "borders": ["BOL", "BRA", "CHL", "PRY", "URY"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/ke.png",
+      "svg": "https://flagcdn.com/ke.svg",
+      "alt": "Flag of Kenya"
+    },
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya"
+    },
+    "population": 53771300,
+    "nativeName": "Kenya",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": "KES",
+    "languages": ["en", "sw"],
+    "tld": ".ke",
+    "code": "KEN",
+    "borders": ["ETH", "SOM", "SSD", "TZA", "UGA"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/ma.png",
+      "svg": "https://flagcdn.com/ma.svg",
+      "alt": "Flag of Morocco"
+    },
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco"
+    },
+    "population": 36910558,
+    "nativeName": "المغرب",
+    "capital": "Rabat",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": "MAD",
+    "languages": ["ar"],
+    "tld": ".ma",
+    "code": "MAR",
+    "borders": ["DZA", "ESH", "ESP"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/kz.png",
+      "svg": "https://flagcdn.com/kz.svg",
+      "alt": "Flag of Kazakhstan"
+    },
+    "name": {
+      "common": "Kazakhstan",
+      "official": "Republic of Kazakhstan"
+    },
+    "population": 18754440,
+    "nativeName": "Қазақстан",
+    "capital": "Nur-Sultan",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "currency": "KZT",
+    "languages": ["kk", "ru"],
+    "tld": ".kz",
+    "code": "KAZ",
+    "borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/vn.png",
+      "svg": "https://flagcdn.com/vn.svg",
+      "alt": "Flag of Vietnam"
+    },
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam"
+    },
+    "population": 97338583,
+    "nativeName": "Việt Nam",
+    "capital": "Hanoi",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "VND",
+    "languages": ["vi"],
+    "tld": ".vn",
+    "code": "VNM",
+    "borders": ["KHM", "CHN", "LAO"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/co.png",
+      "svg": "https://flagcdn.com/co.svg",
+      "alt": "Flag of Colombia"
+    },
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia"
+    },
+    "population": 50372424,
+    "nativeName": "Colombia",
+    "capital": "Bogotá",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "COP",
+    "languages": ["es"],
+    "tld": ".co",
+    "code": "COL",
+    "borders": ["BRA", "ECU", "PAN", "PER", "VEN"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/th.png",
+      "svg": "https://flagcdn.com/th.svg",
+      "alt": "Flag of Thailand"
+    },
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand"
+    },
+    "population": 69799978,
+    "nativeName": "ประเทศไทย",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "THB",
+    "languages": ["th"],
+    "tld": ".th",
+    "code": "THA",
+    "borders": ["KHM", "LAO", "MMR", "MYS"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/tz.png",
+      "svg": "https://flagcdn.com/tz.svg",
+      "alt": "Flag of Tanzania"
+    },
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania"
+    },
+    "population": 59734213,
+    "nativeName": "Tanzania",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": "TZS",
+    "languages": ["sw", "en"],
+    "tld": ".tz",
+    "code": "TZA",
+    "borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w160/cu.png",
+      "svg": "https://flagcdn.com/cu.svg",
+      "alt": "Flag of Cuba"
+    },
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba"
+    },
+    "population": 11326616,
+    "nativeName": "Cuba",
+    "capital": "Havana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": "CUP",
+    "languages": ["es"],
+    "tld": ".cu",
+    "code": "CUB",
+    "borders": []
   }
 ]

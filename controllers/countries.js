@@ -13,12 +13,14 @@ function getCountryByName(req, res, next) {
     .catch(next)
 }
 
-function getCountriesByCodes(req, res, next) {
+function getCountriesNamesByCodes(req, res, next) {
   const { codes } = req.body
 
-  Country.find({ code: codes })
-    .then((country) => res.send({ data: country.name }))
+  Country.find({ code: { $in: codes } })
+    .then((countries) =>
+      res.send(countries.map((country) => country.name.common)),
+    )
     .catch(next)
 }
 
-export { getCountries, getCountryByName, getCountriesByCodes }
+export { getCountries, getCountryByName, getCountriesNamesByCodes }

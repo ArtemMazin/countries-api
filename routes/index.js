@@ -1,7 +1,7 @@
 import { Router } from 'express'
 import {
   getCountries,
-  getCountriesByCodes,
+  getCountriesNamesByCodes,
   getCountryByName,
 } from '../controllers/countries.js'
 
@@ -11,6 +11,6 @@ router.get('/countries', getCountries)
 
 router.get('/country/:name', getCountryByName)
 
-router.get('/borders', getCountriesByCodes)
+router.post('/borders', getCountriesNamesByCodes)
 
 export default router
